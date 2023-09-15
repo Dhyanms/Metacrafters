@@ -14,6 +14,8 @@ After creating the token we have added some amount of values to it and also dedc
 You can run this program on any offline IDE or on Remix.
 
 ### Executing program
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.18;
 
 contract MyToken {
 
@@ -47,6 +49,7 @@ When creating the burn function we have to make sure the balance of the token is
 
 ## Authors
 
+Dhyan MS
 @dhyanms@gmail.com
 
 
